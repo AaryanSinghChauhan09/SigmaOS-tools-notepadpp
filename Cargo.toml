@@ -1,0 +1,9 @@
+[package]
+name = "sigmaos_tools_notepadpp"
+version = "0.1.0"
+edition = "2021"
+description = "Notepad++ editor compatibility bridge, Scintilla lexer integration, and plugin protocol handler"
+
+[lib]
+name = "sigmaos_tools_notepadpp"
+path = "src/lib.rs"
