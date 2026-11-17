@@ -3,7 +3,7 @@ name = "SigmaOS-tools-notepadpp"
 tier = 3
 stability = "stable"
 language = "rust"
-description = "Notepad++ editor compatibility bridge, Scintilla lexer integration, and plugin protocol handler"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
